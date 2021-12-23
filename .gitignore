@@ -1,0 +1,46 @@
+# Dependency directories
+node_modules/
+
+# Compiled files
+Dist
+
+# Logs
+Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+tmp
+
+# Config / Sensitive
+Src/Config/Keys/*
+.env
+.env.test
+**/.env.*
+
+# Docs build output
+site
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+.clinic
+
+# Coverage
+.nyc_output
+lib-cov
+coverage
+*.lcov
+
+# Devops
+.scannerwork
+.envrc
+
+### OSX ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE Files:
+.idea
+.vscode/
