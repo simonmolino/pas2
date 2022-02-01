@@ -58,7 +58,7 @@
     "c8": "7.10.0",
     "del": "6.0.0",
     "gulp": "4.0.2",
-    "markdownlint": "0.24.0",
+    "markdownlint": "0.25.1",
     "markdownlint-cli": "0.30.0",
     "ts-node": "10.4.0",
     "tsconfig-paths": "3.12.0",
